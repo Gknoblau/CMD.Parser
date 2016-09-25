@@ -2,7 +2,6 @@ name: parser
 dependencies:
 - hdf5=1.8.17=1
 - mkl=11.3.3=0
-- numpy=1.11.1=py27_0
 - openssl=1.0.2h=2
 - pip=8.1.2=py27_0
 - python=2.7.12=1

@@ -1,5 +1,5 @@
-
-# CMD. Parser
+# CMD. Parser  
+<img src="Logo.png" width="150"> 
 
 The Slack Bot that parses bash commands off terminal screenshots.
 

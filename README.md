@@ -32,10 +32,14 @@ https://52xkgnh3ej.execute-api.us-west-2.amazonaws.com/test
 
 Using a the simple command 'cmd' in your favourite slack channel and then a valid url. Ensure the file is accessable to the public internet
 
-Ex) cmd http://slack.files.image.png
-
 For a demo of comd. parser being used please check out the submission video
 https://www.youtube.com/watch?v=VU5AoDQvN6Q
+
+## Example Commands
+
+cmd https://raw.githubusercontent.com/Gknoblau/CMD.Parser/master/Example1.png
+cmd https://raw.githubusercontent.com/Gknoblau/CMD.Parser/master/Example2.png
+cmd https://raw.githubusercontent.com/Gknoblau/CMD.Parser/master/Example3.png
 
 ## What is CMD.Parser?
 - Role: To make IT professionals’ lives easier by parsing commands from a terminal screenshot

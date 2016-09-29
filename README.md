@@ -37,9 +37,9 @@ https://www.youtube.com/watch?v=VU5AoDQvN6Q
 
 ## Example Commands
 
-cmd https://raw.githubusercontent.com/Gknoblau/CMD.Parser/master/Example1.png
-cmd https://raw.githubusercontent.com/Gknoblau/CMD.Parser/master/Example2.png
-cmd https://raw.githubusercontent.com/Gknoblau/CMD.Parser/master/Example3.png
+- cmd https://raw.githubusercontent.com/Gknoblau/CMD.Parser/master/Example1.png
+- cmd https://raw.githubusercontent.com/Gknoblau/CMD.Parser/master/Example2.png
+- cmd https://raw.githubusercontent.com/Gknoblau/CMD.Parser/master/Example3.png
 
 ## What is CMD.Parser?
 - Role: To make IT professionals’ lives easier by parsing commands from a terminal screenshot
